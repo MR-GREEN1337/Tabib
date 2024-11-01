@@ -1,0 +1,300 @@
+{
+   "protocols": [
+       {
+           "category": "Emergency",
+           "subcategory": "Basic Life Support",
+           "entries": [
+               {
+                   "title": "Adult CPR Protocol",
+                   "text": "Comprehensive Adult CPR Protocol:\n1. Scene Safety Assessment\n   - Check for environmental hazards\n   - Use personal protective equipment\n   - Ensure electrical safety if defibrillation may be needed\n\n2. Check Responsiveness\n   - Tap shoulders firmly\n   - Loudly ask \"Are you okay?\"\n   - Note any response or movement\n\n3. Activate Emergency Response\n   - Call emergency services (911)\n   - Send someone for AED\n   - If alone, call before starting CPR\n\n4. Check Breathing and Pulse\n   - Look for chest rise/fall\n   - Check carotid pulse for 10 seconds\n   - Note abnormal breathing patterns\n\n5. Begin Chest Compressions\n   - Center of chest on breastbone\n   - Depth: 2-2.4 inches\n   - Rate: 100-120 per minute\n   - Allow full chest recoil\n   - Minimize interruptions\n\n6. Airway Management\n   - Head-tilt chin-lift\n   - Check for visible obstructions\n   - Remove loose dentures\n\n7. Rescue Breaths\n   - 2 breaths after 30 compressions\n   - Each breath 1 second duration\n   - Watch for chest rise\n   - Resume compressions immediately\n\n8. Continue CPR Cycles\n   - Maintain 30:2 ratio\n   - Switch providers every 2 minutes\n   - Minimize interruptions\n\n9. AED Integration\n   - Power on AED\n   - Follow voice prompts\n   - Clear victim during analysis\n   - Resume CPR immediately after shock\n\n10. Special Considerations\n    - Pregnancy: Left lateral tilt\n    - Trauma: Stabilize spine\n    - Drowning: Begin with rescue breaths",
+                   "tags": [
+                       "CPR",
+                       "resuscitation",
+                       "emergency",
+                       "life support",
+                       "cardiac arrest"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "AHA/ERC"
+               },
+               {
+                   "title": "Pediatric Emergency Care",
+                   "text": "Pediatric Emergency Assessment and Treatment:\n1. Primary Assessment (ABCDE)\n   A. Airway\n      - Check patency\n      - Look for foreign bodies\n      - Position appropriately\n   \n   B. Breathing\n      - Count respiratory rate\n      - Observe work of breathing\n      - Listen for abnormal sounds\n   \n   C. Circulation\n      - Check pulse strength\n      - Assess capillary refill\n      - Look for bleeding\n   \n   D. Disability\n      - Check consciousness (AVPU)\n      - Assess pupils\n      - Check blood glucose\n   \n   E. Exposure\n      - Check temperature\n      - Look for rashes/injuries\n      - Maintain dignity\n\n2. Age-Specific Vital Signs\n   Infants (0-12 months):\n   - Heart rate: 100-160\n   - Resp rate: 30-60\n   - BP systolic: 65-90\n\n   Toddlers (1-3 years):\n   - Heart rate: 90-150\n   - Resp rate: 24-40\n   - BP systolic: 80-100\n\n   School Age (4-12):\n   - Heart rate: 70-120\n   - Resp rate: 18-30\n   - BP systolic: 90-110\n\n3. Emergency Interventions\n   - Airway positioning\n   - Oxygen therapy\n   - IV/IO access\n   - Fluid resuscitation\n   - Temperature management",
+                   "tags": [
+                       "pediatric",
+                       "emergency",
+                       "vital signs",
+                       "assessment",
+                       "ABCDE"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "PALS/EPLS"
+               }
+           ]
+       },
+       {
+           "category": "Trauma",
+           "subcategory": "Wound Management",
+           "entries": [
+               {
+                   "title": "Advanced Wound Assessment",
+                   "text": "Comprehensive Wound Assessment Protocol:\n1. Initial Evaluation\n   - Mechanism of injury\n   - Time since injury\n   - Contamination risk\n   - Associated injuries\n\n2. Wound Classification\n   Clean:\n   - Surgical, non-traumatic\n   - Minimal contamination\n   - Primary closure possible\n\n   Clean-Contaminated:\n   - Controlled opening of viscera\n   - Minor breaks in technique\n\n   Contaminated:\n   - Open traumatic wounds\n   - Gross spillage from GI tract\n   - Non-purulent inflammation\n\n   Dirty:\n   - Active infection present\n   - Visceral perforation\n   - Delayed treatment\n\n3. Depth Assessment\n   - Superficial (epidermis)\n   - Partial thickness (dermis)\n   - Full thickness (subcutaneous)\n   - Deep tissue involvement\n\n4. Vascular Assessment\n   - Capillary refill\n   - Pulse check distal to wound\n   - Temperature of affected area\n   - Color assessment\n\n5. Neurological Check\n   - Sensory function\n   - Motor function\n   - Pain assessment\n   - Paresthesia\n\n6. Risk Factors\n   - Diabetes\n   - Immunosuppression\n   - Peripheral vascular disease\n   - Malnutrition\n   - Age extremes\n\n7. Documentation\n   - Size and location\n   - Wound bed characteristics\n   - Exudate type/amount\n   - Surrounding skin condition\n   - Photography if appropriate",
+                   "tags": [
+                       "wound care",
+                       "trauma",
+                       "assessment",
+                       "classification"
+                   ],
+                   "evidence_level": "B",
+                   "last_updated": "2024-02",
+                   "guidelines_source": "WUWHS"
+               }
+           ]
+       },
+       {
+           "category": "Medical",
+           "subcategory": "Respiratory",
+           "entries": [
+               {
+                   "title": "Asthma Exacerbation Management",
+                   "text": "Comprehensive Asthma Management Protocol:\n1. Severity Assessment\n   Mild:\n   - Speaking in sentences\n   - RR slightly elevated\n   - No accessory muscle use\n   - O2 sat > 95%\n\n   Moderate:\n   - Speaking in phrases\n   - RR 20-30\n   - Accessory muscle use\n   - O2 sat 90-95%\n\n   Severe:\n   - Speaking in words\n   - RR > 30\n   - Marked accessory muscle use\n   - O2 sat < 90%\n\n2. Initial Management\n   - Positioning (sitting upright)\n   - Oxygen therapy if needed\n   - Initial SABA treatment\n   - Vital signs monitoring\n\n3. Medication Administration\n   First Line:\n   - SABA (albuterol) 4-8 puffs q20min\n   - Consider ipratropium bromide\n   - Systemic corticosteroids\n\n   Second Line:\n   - Magnesium sulfate\n   - Continuous nebulization\n   - IV beta-agonists\n\n4. Monitoring\n   - Peak flow measurements\n   - Pulse oximetry\n   - Work of breathing\n   - Mental status\n   - Response to treatment\n\n5. Discharge Criteria\n   - Minimal respiratory distress\n   - O2 sat > 90% on room air\n   - PEFR > 70% predicted\n   - Adequate social support",
+                   "tags": [
+                       "asthma",
+                       "respiratory",
+                       "bronchodilators",
+                       "emergency"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "GINA"
+               }
+           ]
+       },
+       {
+           "category": "Toxicology",
+           "subcategory": "Common Poisonings",
+           "entries": [
+               {
+                   "title": "Toxic Exposure Management",
+                   "text": "Comprehensive Toxicology Management:\n1. Initial Assessment\n   - Airway protection\n   - Breathing adequacy\n   - Circulation status\n   - Mental status\n   - Temperature\n\n2. History Collection\n   - Substance(s) involved\n   - Route of exposure\n   - Time since exposure\n   - Amount/concentration\n   - Intentionality\n   - Available containers\n\n3. Common Toxidromes\n   Anticholinergic:\n   - Hyperthermia\n   - Mydriasis\n   - Dry mucous membranes\n   - Urinary retention\n   - Delirium\n\n   Cholinergic:\n   - Bradycardia\n   - Bronchorrhea\n   - Salivation\n   - Lacrimation\n   - Diaphoresis\n\n   Opioid:\n   - Miosis\n   - Respiratory depression\n   - CNS depression\n   - Bradycardia\n   - Hypothermia\n\n4. Decontamination\n   Dermal:\n   - Remove clothing\n   - Copious irrigation\n   - Special considerations\n\n   Gastrointestinal:\n   - Activated charcoal\n   - Whole bowel irrigation\n   - Gastric lavage\n\n5. Antidote Administration\n   - Naloxone for opioids\n   - N-acetylcysteine for acetaminophen\n   - Flumazenil for benzodiazepines\n   - Glucagon for beta-blockers\n   - Calcium for calcium channel blockers\n\n6. Monitoring\n   - Vital signs\n   - Mental status\n   - Organ function\n   - ECG monitoring\n   - Blood levels",
+                   "tags": [
+                       "toxicology",
+                       "poisoning",
+                       "antidotes",
+                       "decontamination"
+                   ],
+                   "evidence_level": "B",
+                   "last_updated": "2024-02",
+                   "guidelines_source": "AACT"
+               }
+           ]
+       },
+       {
+           "category": "Cardiac",
+           "subcategory": "Basic Life Support",
+           "entries": [
+               {
+                   "title": "Using an AED",
+                   "text": "AED (Automated External Defibrillator) Usage Steps:\n1. Power on the AED\n2. Expose patient's chest, ensure it's dry\n3. Attach pads correctly:\n   - Right pad under right collarbone\n   - Left pad on left side under armpit\n4. Let AED analyze heart rhythm\n5. Clear the patient during analysis\n6. If shock advised:\n   - Ensure nobody is touching patient\n   - Press shock button\n7. Resume CPR immediately after shock\nSpecial considerations: Remove metal jewelry, medication patches. Don't use on wet surfaces or if patient is lying on metal.",
+                   "tags": [
+                       "AED",
+                       "defibrillator",
+                       "cardiac arrest",
+                       "emergency equipment"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "AHA"
+               }
+           ]
+       },
+       {
+           "category": "Bleeding",
+           "subcategory": "Basic Life Support",
+           "entries": [
+               {
+                   "title": "Severe Bleeding Control",
+                   "text": "Managing Severe Bleeding:\n1. Apply direct pressure with clean cloth or gauze\n2. Maintain firm, continuous pressure for at least 15 minutes\n3. Add more gauze if needed without removing original dressing\n4. Elevate injured area if possible\n5. Apply tourniquet if bleeding can't be controlled and is on a limb:\n   - Place 2-3 inches above wound\n   - Tighten until bleeding stops\n   - Note time of application\nFor internal bleeding signs (bruising, blood in vomit/stool, cold/clammy skin), seek immediate medical attention.",
+                   "tags": [
+                       "hemorrhage",
+                       "bleeding",
+                       "wound care",
+                       "tourniquet",
+                       "first aid"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "TCCC"
+               }
+           ]
+       },
+       {
+           "category": "Environmental",
+           "subcategory": "Basic Life Support",
+           "entries": [
+               {
+                   "title": "Heat and Cold Emergencies",
+                   "text": "Managing Temperature-Related Emergencies:\nHeat Exhaustion:\n1. Move to cool place\n2. Remove excess clothing\n3. Apply cool, wet cloths\n4. Sip water slowly\n5. Seek medical care if symptoms worsen\n\nHeat Stroke (Medical Emergency):\n1. Call emergency services\n2. Move to cool area\n3. Remove outer clothing\n4. Apply cool packs to neck, armpits, groin\n5. Monitor breathing and consciousness\n\nHypothermia:\n1. Move to warm area\n2. Remove wet clothing\n3. Warm core body gradually\n4. Use warm blankets\n5. Give warm drinks if conscious\n6. Seek medical attention\n\nFrostbite:\n1. Move to warm area\n2. Don't rub affected area\n3. Immerse in warm (not hot) water\n4. Don't use direct heat\n5. Protect from refreezing\n6. Seek medical attention",
+                   "tags": [
+                       "heat exhaustion",
+                       "heat stroke",
+                       "hypothermia",
+                       "frostbite",
+                       "environmental emergency"
+                   ],
+                   "evidence_level": "A",
+                   "last_updated": "2024-01",
+                   "guidelines_source": "WMS"
+               }
+           ]
+       },
+       {
+         "category": "Emergency",
+         "subcategory": "Mass Casualty",
+         "entries": [
+             {
+                 "title": "Mass Casualty Triage",
+                 "text": "START Triage Protocol:\n1. Initial Scene Assessment\n   - Scene safety evaluation\n   - Resource assessment\n   - Establish command structure\n   - Set up triage zones\n\n2. Primary Triage\n   Walking wounded (Green):\n   - Can walk\n   - Follow commands\n   - Minor injuries\n\n   Immediate (Red):\n   - Respiratory rate >30 or <10\n   - Perfusion: Cap refill >2 sec\n   - Mental status: Unable to follow commands\n\n   Delayed (Yellow):\n   - Non-ambulatory\n   - Serious injuries but not immediate\n   - Stable vital signs\n\n   Deceased/Expectant (Black):\n   - No breathing after airway opened\n   - Obviously deceased\n   - Injuries incompatible with life\n\n3. Secondary Triage\n   - Detailed assessment\n   - Documentation\n   - Treatment priorities\n   - Transport decisions\n\n4. Resource Management\n   - Personnel allocation\n   - Equipment distribution\n   - Transport coordination\n   - Communication channels",
+                 "tags": [
+                     "triage",
+                     "mass casualty",
+                     "disaster",
+                     "emergency"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "SALT/START"
+             }
+         ]
+     },
+     {
+         "category": "Pharmacology",
+         "subcategory": "Emergency Antidotes",
+         "entries": [
+             {
+                 "title": "Critical Antidote Administration",
+                 "text": "Emergency Antidote Protocol:\n1. Opioid Overdose\n   Naloxone Administration:\n   - Initial dose: 0.4-2mg IV/IM/IN\n   - Repeat q2-3min if needed\n   - Maximum 10mg\n   - Monitor for withdrawal\n\n2. Beta Blocker Toxicity\n   Glucagon Protocol:\n   - Bolus: 5-10mg IV\n   - Infusion: 2-5mg/hour\n   - Monitor glucose levels\n   - Watch for vomiting\n\n3. Calcium Channel Blocker\n   Calcium Protocol:\n   - Calcium chloride 1g IV\n   - Calcium gluconate 3g IV\n   - High-dose insulin therapy\n   - Vasopressor support\n\n4. Organophosphate Poisoning\n   Atropine/Pralidoxime:\n   - Atropine: 2-4mg IV q5-10min\n   - Pralidoxime: 1-2g IV\n   - Monitor secretions\n   - Decontamination\n\n5. Methanol/Ethylene Glycol\n   Fomepizole Protocol:\n   - Loading: 15mg/kg IV\n   - Maintenance: 10mg/kg q12h\n   - Adjust for hemodialysis\n   - Monitor anion gap",
+                 "tags": [
+                     "antidotes",
+                     "toxicology",
+                     "overdose",
+                     "poisoning"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-02",
+                 "guidelines_source": "AACT"
+             }
+         ]
+     },
+     {
+         "category": "Procedures",
+         "subcategory": "Emergency Procedures",
+         "entries": [
+             {
+                 "title": "Needle Decompression",
+                 "text": "Tension Pneumothorax Decompression:\n1. Indication Assessment\n   - Respiratory distress\n   - Absent breath sounds\n   - Tracheal deviation\n   - Hypotension\n   - JVD\n\n2. Site Selection\n   Primary:\n   - 2nd/3rd intercostal space\n   - Midclavicular line\n   - Above rib\n\n   Alternative:\n   - 4th/5th intercostal space\n   - Anterior axillary line\n\n3. Procedure Steps\n   - Identify landmarks\n   - Sterile preparation\n   - Local anesthesia if time\n   - Insert 14G catheter\n   - Listen for rush of air\n   - Secure catheter\n\n4. Post-procedure\n   - Chest tube preparation\n   - Vital sign monitoring\n   - CXR when possible\n   - Documentation",
+                 "tags": [
+                     "procedure",
+                     "pneumothorax",
+                     "emergency",
+                     "decompression"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "ATLS"
+             },
+             {
+                 "title": "Surgical Cricothyroidotomy",
+                 "text": "Emergency Surgical Airway:\n1. Indications\n   - Failed intubation\n   - Cannot ventilate\n   - Cannot oxygenate\n   - Upper airway obstruction\n\n2. Anatomy Identification\n   - Thyroid cartilage\n   - Cricoid cartilage\n   - Cricothyroid membrane\n   - Midline vessels\n\n3. Equipment Needed\n   - Scalpel (#10 blade)\n   - Bougie\n   - 6.0 ETT\n   - Trach hook\n   - Antiseptic\n\n4. Procedure Steps\n   - Identify landmarks\n   - Stabilize larynx\n   - Vertical skin incision\n   - Horizontal membrane cut\n   - Insert bougie\n   - Railroad ETT\n   - Confirm placement\n\n5. Complications\n   - Bleeding\n   - False passage\n   - Posterior wall injury\n   - Subcutaneous emphysema",
+                 "tags": [
+                     "airway",
+                     "surgical",
+                     "emergency",
+                     "cricothyroidotomy"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "ATLS"
+             }
+         ]
+     },
+     {
+         "category": "Trauma",
+         "subcategory": "Burns",
+         "entries": [
+             {
+                 "title": "Acute Burn Management",
+                 "text": "Initial Burn Care Protocol:\n1. Primary Survey\n   - Airway assessment\n   - Breathing evaluation\n   - Circulation status\n   - Associated trauma\n\n2. Burn Assessment\n   Rule of Nines:\n   - Head/Neck: 9%\n   - Each arm: 9%\n   - Chest (front): 18%\n   - Back: 18%\n   - Each leg: 18%\n   - Groin: 1%\n\n3. Fluid Resuscitation\n   Parkland Formula:\n   - 4mL × kg × %TBSA\n   - First 24 hours\n   - Half in first 8 hours\n   - Monitor urine output\n\n4. Wound Care\n   - Stop burning process\n   - Remove jewelry\n   - Clean wounds\n   - Apply dressings\n   - Tetanus status\n\n5. Special Considerations\n   - Chemical burns\n   - Electrical burns\n   - Circumferential burns\n   - Inhalation injury\n   - Hypothermia risk",
+                 "tags": [
+                     "burns",
+                     "trauma",
+                     "resuscitation",
+                     "wound care"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "ABA"
+             }
+         ]
+     },
+     {
+         "category": "Pediatric",
+         "subcategory": "Critical Care",
+         "entries": [
+             {
+                 "title": "Pediatric Septic Shock",
+                 "text": "Pediatric Sepsis Protocol:\n1. Recognition\n   Early Signs:\n   - Tachycardia\n   - Fever/Hypothermia\n   - Altered mental status\n   - Poor perfusion\n   \n   Late Signs:\n   - Hypotension\n   - Weak pulses\n   - Mottled skin\n   - Decreased urine output\n\n2. Initial Resuscitation\n   First Hour:\n   - IV/IO access\n   - Labs/Cultures\n   - Antibiotics\n   - Fluid boluses\n\n3. Fluid Therapy\n   - 20mL/kg boluses\n   - Reassess after each\n   - Up to 60mL/kg\n   - Watch for overload\n\n4. Vasoactive Support\n   First Line:\n   - Epinephrine\n   - Norepinephrine\n   \n   Second Line:\n   - Dopamine\n   - Vasopressin\n\n5. Antimicrobial Therapy\n   - Broad spectrum\n   - Source control\n   - Adjust for resistance\n   - Monitor response",
+                 "tags": [
+                     "pediatric",
+                     "sepsis",
+                     "shock",
+                     "critical care"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "SCCM/PALS"
+             }
+         ]
+     },
+     {
+         "category": "Cardiology",
+         "subcategory": "Dysrhythmias",
+         "entries": [
+             {
+                 "title": "Electrical Storm Management",
+                 "text": "Managing Recurrent VT/VF:\n1. Initial Stabilization\n   - Defibrillation prn\n   - Airway management\n   - IV access\n   - Monitor setup\n\n2. Medication Protocol\n   First Line:\n   - Amiodarone 150mg IV\n   - Beta blocker\n   - Sedation\n\n   Second Line:\n   - Lidocaine\n   - Procainamide\n   - Magnesium\n\n3. Reversible Causes\n   - Ischemia\n   - Electrolytes\n   - pH disturbance\n   - Drug toxicity\n   - Device malfunction\n\n4. Advanced Interventions\n   - Overdrive pacing\n   - Stellate block\n   - ECMO consideration\n   - Ablation planning\n\n5. Prevention Strategy\n   - Optimize medications\n   - Device programming\n   - Risk factor control\n   - Follow-up plan",
+                 "tags": [
+                     "cardiology",
+                     "arrhythmia",
+                     "VT",
+                     "VF"
+                 ],
+                 "evidence_level": "B",
+                 "last_updated": "2024-02",
+                 "guidelines_source": "HRS/AHA"
+             }
+         ]
+     },
+     {
+         "category": "Infectious Disease",
+         "subcategory": "Tropical Medicine",
+         "entries": [
+             {
+                 "title": "Severe Malaria Management",
+                 "text": "Severe Malaria Protocol:\n1. Diagnostic Criteria\n   Clinical:\n   - Impaired consciousness\n   - Severe anemia\n   - Acute kidney injury\n   - ARDS\n   - Shock\n\n   Laboratory:\n   - Parasitemia >10%\n   - Lactate >5\n   - pH <7.2\n   - Glucose <40\n\n2. Initial Treatment\n   Antimalarial Therapy:\n   - IV Artesunate preferred\n   - Quinine if unavailable\n   - Loading dose calculation\n   - Maintenance schedule\n\n3. Supportive Care\n   - Fluid management\n   - Glucose control\n   - Seizure prophylaxis\n   - Blood products\n   - Ventilation support\n\n4. Monitoring\n   - Parasitemia q12h\n   - Vital signs q1h\n   - Mental status\n   - Urine output\n   - Complications\n\n5. Exchange Transfusion\n   Indications:\n   - Parasitemia >30%\n   - Severe symptoms\n   - End organ damage",
+                 "tags": [
+                     "malaria",
+                     "tropical",
+                     "infectious",
+                     "critical care"
+                 ],
+                 "evidence_level": "A",
+                 "last_updated": "2024-01",
+                 "guidelines_source": "WHO"
+             }
+         ]
+     }
+   ]
+}
