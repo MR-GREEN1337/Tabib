@@ -14,7 +14,7 @@ import {
 import Chat from "@/components/chat";
 import CallDoctor from "@/components/doctor-call";
 
-export function MedicalAssistant() {
+const MedicalAssistant = () => {
   const [activeTab, setActiveTab] = useState<string>("chat");
 
   return (
