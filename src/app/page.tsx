@@ -74,10 +74,6 @@ export default function Home() {
                 📍 <span className="font-semibold">Find Help Nearby</span>:
                 Instantly access hospitals and doctors via Google Maps.
               </li>
-              <li>
-                🌐 <span className="font-semibold">Localization Support</span>:
-                Multilingual support for users worldwide.
-              </li>
             </ul>
           </div>
           <div className="relative w-full h-80">

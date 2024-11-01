@@ -25,8 +25,7 @@
                        "pediatric",
                        "emergency",
                        "vital signs",
-                       "assessment",
-                       "ABCDE"
+                       "assessment"
                    ],
                    "evidence_level": "A",
                    "last_updated": "2024-01",
@@ -295,6 +294,216 @@
                  "guidelines_source": "WHO"
              }
          ]
-     }
+     },
+    {
+        "category": "Neurology",
+        "subcategory": "Acute Care",
+        "entries": [
+            {
+                "title": "Status Epilepticus Management",
+                "text": "Status Epilepticus Treatment Protocol:\n1. Initial Phase (0-5 min)\n   - Airway protection\n   - Oxygen supplementation\n   - Vital signs monitoring\n   - Establish IV access\n\n2. First-Line Treatment (5-20 min)\n   Benzodiazepines:\n   - Lorazepam 0.1mg/kg IV\n   - Midazolam 10mg IM\n   - Diazepam 0.15mg/kg IV\n\n3. Second-Line Treatment (20-40 min)\n   Choose one:\n   - Fosphenytoin 20mg PE/kg\n   - Valproate 40mg/kg\n   - Levetiracetam 60mg/kg\n   - Phenobarbital 15mg/kg\n\n4. Third-Line Treatment (40-60 min)\n   - General anesthesia\n   - Continuous EEG monitoring\n   - ICU admission\n   - Intubation preparation\n\n5. Ongoing Management\n   - Continuous vital monitoring\n   - Electrolyte correction\n   - Temperature management\n   - Neurological checks",
+                "tags": [
+                    "seizure",
+                    "neurology",
+                    "emergency",
+                    "status epilepticus"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-01",
+                "guidelines_source": "ACNS/AES"
+            }
+        ]
+    },
+    {
+        "category": "Endocrine",
+        "subcategory": "Emergency",
+        "entries": [
+            {
+                "title": "Thyroid Storm Management",
+                "text": "Thyroid Storm Protocol:\n1. Diagnosis (Burch-Wartofsky Score)\n   - Temperature (35-41°C)\n   - CNS effects\n   - GI-hepatic dysfunction\n   - Cardiovascular dysfunction\n   - Precipitant history\n\n2. Initial Stabilization\n   - Cooling measures\n   - IV fluid resuscitation\n   - Electrolyte correction\n   - ICU admission\n\n3. Medication Protocol\n   First Hour:\n   - PTU 500-1000mg load\n   - Hydrocortisone 100mg IV\n   - Propranolol 60-80mg\n   \n   Subsequent:\n   - Lugol's solution\n   - Cholestyramine\n   - Continued PTU\n\n4. Supportive Care\n   - Cardiac monitoring\n   - Temperature control\n   - Fluid balance\n   - Nutrition support",
+                "tags": [
+                    "endocrine",
+                    "thyroid",
+                    "emergency",
+                    "critical care"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-02",
+                "guidelines_source": "ATA"
+            }
+        ]
+    },
+    {
+        "category": "Pulmonary",
+        "subcategory": "Critical Care",
+        "entries": [
+            {
+                "title": "Massive Hemoptysis",
+                "text": "Massive Hemoptysis Management:\n1. Initial Assessment\n   - Airway protection\n   - Bleeding quantification\n   - Vital signs\n   - Oxygenation status\n\n2. Position Patient\n   - Bleeding side down\n   - Head of bed up\n   - Ready for intubation\n\n3. Airway Management\n   - Large bore ETT\n   - Double lumen consideration\n   - Bronchial blockers\n   - Suction preparation\n\n4. Medical Management\n   - Tranexamic acid\n   - Blood products\n   - Antibiotics if indicated\n   - Correction of coagulopathy\n\n5. Definitive Care\n   - Bronchial arteriography\n   - Embolization\n   - Surgical consultation\n   - ICU monitoring",
+                "tags": [
+                    "pulmonary",
+                    "hemorrhage",
+                    "critical care",
+                    "emergency"
+                ],
+                "evidence_level": "B",
+                "last_updated": "2024-01",
+                "guidelines_source": "ATS/ERS"
+            }
+        ]
+    },
+    {
+        "category": "Obstetrics",
+        "subcategory": "Emergency",
+        "entries": [
+            {
+                "title": "Perimortem Cesarean Section",
+                "text": "Emergency Cesarean Protocol:\n1. Indications\n   - Maternal cardiac arrest\n   - Gestational age >20 weeks\n   - No ROSC within 4 minutes\n   - Uterus above umbilicus\n\n2. Team Activation\n   - Code team leader\n   - Obstetric surgeon\n   - Neonatology\n   - Blood bank\n   - Operating room\n\n3. Procedure Timing\n   - Decision within 4 minutes\n   - Delivery within 5 minutes\n   - Continue CPR throughout\n   - Minimal preparation\n\n4. Equipment Needed\n   - Scalpel\n   - Retractors\n   - Cord clamps\n   - Suction\n   - Neonatal resuscitation\n\n5. Post-Procedure\n   - Maternal resuscitation\n   - Uterine closure\n   - Neonatal care\n   - Documentation\n   - Family support",
+                "tags": [
+                    "obstetric",
+                    "emergency",
+                    "cesarean",
+                    "cardiac arrest"
+                ],
+                "evidence_level": "B",
+                "last_updated": "2024-01",
+                "guidelines_source": "ACOG"
+            }
+        ]
+    },
+    {
+        "category": "Toxicology",
+        "subcategory": "Environmental",
+        "entries": [
+            {
+                "title": "Cyanide Poisoning",
+                "text": "Cyanide Toxicity Protocol:\n1. Recognition\n   Early Signs:\n   - Bitter almond odor\n   - Anxiety/confusion\n   - Tachypnea\n   - Vomiting\n\n   Late Signs:\n   - Seizures\n   - Cardiovascular collapse\n   - Lactic acidosis\n   - Coma\n\n2. Initial Actions\n   - Remove from exposure\n   - PPE for rescuers\n   - 100% oxygen\n   - IV access\n\n3. Antidote Administration\n   Hydroxocobalamin:\n   - 5g IV over 15 minutes\n   - May repeat once\n   - Monitor response\n\n   Alternative:\n   - Sodium thiosulfate\n   - Sodium nitrite\n   - Amyl nitrite\n\n4. Supportive Care\n   - Airway management\n   - Hemodynamic support\n   - Seizure control\n   - Temperature regulation",
+                "tags": [
+                    "toxicology",
+                    "poisoning",
+                    "environmental",
+                    "critical care"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-02",
+                "guidelines_source": "AACT"
+            }
+        ]
+    },
+    {
+        "category": "Metabolic",
+        "subcategory": "Critical Care",
+        "entries": [
+            {
+                "title": "Severe Hyponatremia Correction",
+                "text": "Hyponatremia Management Protocol:\n1. Assessment\n   Symptoms:\n   - Mental status changes\n   - Seizures\n   - Respiratory distress\n   - Focal deficits\n\n2. Initial Management\n   Severe Symptoms:\n   - 3% saline 100mL bolus\n   - Repeat if needed\n   - Target 4-6 mEq/L rise\n   - Maximum 8 mEq/L/24h\n\n3. Ongoing Correction\n   - Regular sodium checks\n   - Fluid restriction\n   - Underlying cause treatment\n   - Osmotic demyelination prevention\n\n4. Special Situations\n   - Exercise-associated\n   - Drug-induced\n   - Endocrine disorders\n   - Heart failure",
+                "tags": [
+                    "metabolic",
+                    "electrolytes",
+                    "critical care",
+                    "emergency"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-01",
+                "guidelines_source": "ESICM"
+            }
+        ]
+    },
+    {
+        "category": "Trauma",
+        "subcategory": "Orthopedic",
+        "entries": [
+            {
+                "title": "Crush Syndrome Management",
+                "text": "Crush Injury Protocol:\n1. Scene Assessment\n   - Entrapment duration\n   - Affected body parts\n   - Associated injuries\n   - Extrication planning\n\n2. Pre-Release Care\n   - IV access\n   - Fluid loading\n   - Pain control\n   - Monitoring\n\n3. Release Phase\n   - Tourniquet readiness\n   - Fluid continuation\n   - Hyperkalemia monitoring\n   - Acidosis correction\n\n4. Post-Release Care\n   - Compartment monitoring\n   - Renal protection\n   - Wound care\n   - Fasciotomy assessment",
+                "tags": [
+                    "trauma",
+                    "crush injury",
+                    "orthopedic",
+                    "critical care"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-01",
+                "guidelines_source": "EAST"
+            }
+        ]
+    },
+    {
+        "category": "Cardiovascular",
+        "subcategory": "Intervention",
+        "entries": [
+            {
+                "title": "Mechanical Circulatory Support",
+                "text": "ECMO Initiation Protocol:\n1. Indication Assessment\n   - Refractory shock\n   - Cardiac arrest\n   - Respiratory failure\n   - Bridge to intervention\n\n2. Pre-Implementation\n   - Team activation\n   - Equipment check\n   - Consent process\n   - Imaging review\n\n3. Cannulation Process\n   - Site selection\n   - Ultrasound guidance\n   - Heparin administration\n   - Position confirmation\n\n4. Initial Settings\n   - Flow rates\n   - Oxygen delivery\n   - Anticoagulation\n   - Ventilator adjustment",
+                "tags": [
+                    "cardiac",
+                    "ECMO",
+                    "shock",
+                    "critical care"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-02",
+                "guidelines_source": "ELSO"
+            }
+        ]
+    },
+    {
+        "category": "Psychiatric",
+        "subcategory": "Emergency",
+        "entries": [
+            {
+                "title": "Acute Agitation Management",
+                "text": "Agitated Patient Protocol:\n1. Risk Assessment\n   - Environment safety\n   - Weapon screening\n   - Exit route planning\n   - Staff positioning\n\n2. De-escalation\n   - Verbal techniques\n   - Space management\n   - Limit stimulation\n   - Clear communication\n\n3. Chemical Restraint\n   First Line:\n   - Haloperidol 5mg\n   - Lorazepam 2mg\n   - Combination therapy\n\n4. Physical Restraint\n   - Team coordination\n   - Safe positioning\n   - Vital monitoring\n   - Documentation",
+                "tags": [
+                    "psychiatric",
+                    "agitation",
+                    "emergency",
+                    "restraint"
+                ],
+                "evidence_level": "B",
+                "last_updated": "2024-01",
+                "guidelines_source": "ACEP"
+            }
+        ]
+    },
+    {
+        "category": "Gastroenterology",
+        "subcategory": "Emergency",
+        "entries": [
+            {
+                "title": "Variceal Hemorrhage",
+                "text": "Variceal Bleeding Protocol:\n1. Initial Stabilization\n   - Large bore IV access\n   - Blood products\n   - Antibiotics\n   - Airway assessment\n\n2. Medical Management\n   - Octreotide drip\n   - PPI therapy\n   - Ceftriaxone\n   - Vitamin K\n\n3. Endoscopic Planning\n   - Timing (<12 hours)\n   - Band ligation\n   - Sclerotherapy\n   - TIPS consideration\n\n4. Post-procedure Care\n   - Monitoring\n   - Rebleeding prevention\n   - Portal pressure\n   - Follow-up plan",
+                "tags": [
+                    "GI",
+                    "bleeding",
+                    "varices",
+                    "emergency"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-01",
+                "guidelines_source": "AASLD"
+            }
+        ]
+    },
+    {
+        "category": "Hematology",
+        "subcategory": "Emergency",
+        "entries": [
+            {
+                "title": "TTP Crisis Management",
+                "text": "Thrombotic Thrombocytopenic Purpura Protocol:\n1. Diagnostic Criteria\n   - Thrombocytopenia\n   - MAHA\n   - Neurological symptoms\n   - Renal dysfunction\n   - Fever\n\n2. Initial Treatment\n   - Plasma exchange\n   - Methylprednisolone\n   - Rituximab consideration\n   - Caplacizumab\n\n3. Monitoring\n   - Platelet count\n   - LDH levels\n   - Mental status\n   - Organ function\n\n4. Complications\n   - Bleeding\n   - Thrombosis\n   - Line infections\n   - Treatment failure",
+                "tags": [
+                    "hematology",
+                    "TTP",
+                    "emergency",
+                    "plasmapheresis"
+                ],
+                "evidence_level": "A",
+                "last_updated": "2024-02",
+                "guidelines_source": "ASH"
+            }
+        ]
+    }
+
    ]
 }

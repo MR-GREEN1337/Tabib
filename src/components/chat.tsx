@@ -17,7 +17,7 @@ export function Chat() {
   const [messages, setMessages] = useState<Message[]>([
     {
       role: "assistant",
-      content: "Hello, what medical problem can I help you with?",
+      content: "Hi there! What health concern can I assist you with today?",
       is_severe: false,
     },
   ]);
